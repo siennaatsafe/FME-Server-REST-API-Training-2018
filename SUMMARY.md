@@ -4,13 +4,14 @@
 	* [Course Overview](./FMESERVER_RESTAPI0Introduction/0.01.CourseOverview.md)
 	* [Course Resources](./FMESERVER_RESTAPI0Introduction/0.02.CourseResources.md)
 * [Overview of the REST API](./FMESERVER_RESTAPI1Overview/1.0.ChapterOverview.md)
-    * [1.1](./FMESERVER_RESTAPI1Overview/1.1.WhatIsaRESTAPI.md)
+    * [1.1](./FMESERVER_RESTAPI1Overview/1.1.RESTAPI.md)
     * [1.2](./FMESERVER_RESTAPI1Overview/1.2.WhatComponentsAreInARequest.md)
-	  * [1.3](./FMESERVER_RESTAPI1Overview/1.3.AuthorizationAndAuthentication.md)
+		* [1.3](./FMESERVER_RESTAPI1Overview/1.3.AuthorizationAndAuthentication.md)
+		Version 1.0
 
 * [Getting Strated with the REST API](./FMESERVER_RESTAPI2TGettingStarted/2.1.RESTAPIHomepage.md)
     * [2.2](./FMESERVER_RESTAPI2TGettingStarted/2.2.RESTAPIResponse.md)
-		* This is a test
+
 
 * [Workspace Design](./FMESERVER_RESTAPI3WorkspaceDesign/3.00.WorkspaceDesign.md)
 	* [Workspace Prototyping](./FMESERVER_RESTAPI3WorkspaceDesign/3.01.Prototyping.md)
