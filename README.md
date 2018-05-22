@@ -17,7 +17,7 @@ The full course is made up of five main sections. These sections are:
 - Workspace Design
 - Practical Transformer Use
 - Best Practice
- 
+
 ## Current Status ##
 
 The current status of this manual is: **COMPLETE**: this manual can be used for training.
