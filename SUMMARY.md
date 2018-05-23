@@ -34,5 +34,3 @@
 	* [8.1 Creating a Routing Tag](./FMESERVER_RESTAPI8JobRouting/8.1.JobRoutingTag.md)
 	* [8.2 Retrieve Job History](./FMESERVER_RESTAPI8JobRouting/8.2.RetrieveJobHistory.md)
 	* [Exercise: Creating a Workspace to Retrieve Job History](./FMESERVER_RESTAPI8JobRouting/8.3.Exercise.md)
-* [Chapter 9. Bonus Exercise. Drive BC Road and Weather Conditions](./FMESERVER_RESTAPI9BonusExercise/9.0.Introduction.md)
-	* [9.1 Exercise](./FMESERVER_RESTAPI9BonusExercise/9.1.Exercise.md)
