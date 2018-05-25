@@ -43,4 +43,4 @@
 * [Chapter 12. Data Visualization Using ArcGIS ](./FMESERVER_RESTAPI12DataVisualization/12.0.Introduction.md)
 	* [Exercise ](./FMESERVER_RESTAPI12DataVisualization/12.1.ExerciseVisualization.md)
 * [Chapter 13. Data Uploads and Downloads  ](./FMESERVER_RESTAPI13DataDownloadandUpload/13.0.Introduction.md)
-	* [Exercise ](./FMESERVER_RESTAPI13FMESERVER_RESTAPI13DataDownloadandUpload/13.1.ExerciseUpload.md)
+	* [Exercise ](./FMESERVER_RESTAPI13DataDownloadandUpload/13.1.ExerciseUpload.md)
