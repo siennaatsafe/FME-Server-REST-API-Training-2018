@@ -12,8 +12,35 @@ The FME Server REST API Training is brand new training course that teaches FME u
 
 The full course is made up of two sections. These sections are:
 
-- Interacting with the FME Server REST API
-- Developing with the FME Server REST API
+The course is made up of two sections:
+
+- ***Interacting with the FME Server REST API***
+
+ - Getting Started with the REST API
+
+ - Using an HTTP Caller to make calls to the FME Server
+
+ - Interacting with Workspaces
+
+ - Web Services and the REST API
+
+ - Complex Queries in Postman
+
+ - Server Administration Tasks
+
+ - Job Routing
+
+- *** Developing with the FME Server REST API ***
+
+ - Best Practices when Building a Web Application
+
+ - Creating a Dynamically Populated Form
+
+ - Data Distribution using Google Maps
+
+ - Data Visualization using ArcGIS
+
+ - Data Uploads and Downloads   
 
 ## Current Status ##
 
