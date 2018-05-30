@@ -1,4 +1,10 @@
-### 3.2 Making an HTTP Request Using Postman
+### 3.1 Exercise- Creating a call with a REST Client Tool
+
+The first step is to download Postman. Simply click this link
+[https://www.getpostman.com/apps](https://www.getpostman.com/apps)
+and download the app. It is available on Windows, Linux, and Mac.
+
+### Making an HTTP Request Using Postman
 
 Now we can make the call below using Postman.
 
@@ -37,3 +43,28 @@ review the table above. Link to Table
 ![](./Images/image3.2.3.png)
 
 *Image 3.2.3 Sending A Request in Postman*
+
+### Interpreting the Response from Postman
+
+Review your call. This is the response you receive.
+
+![](./Images/image3.3.1.responsepostman.png)
+
+*Image 3.3.1 Response from Postman*
+
+Click the Headers section to see a more detailed view of the call
+
+![](./Images/image3.3.2.responseHeaderPostman.png)
+
+*Image 3.3.2 Response header in Postman*
+
+Important Notes:
+
+-   The response is in JSON. This is found in the header Response Header
+    Content-Type.
+
+-   In the top right-hand corner, you should see Status: 200 OK. This
+    indicates it has successfully interacted with the server. This
+    call required no authorization. However, most calls to the server
+    do require authorization. The next step will be to make a call
+    that does require authorization from the server.
