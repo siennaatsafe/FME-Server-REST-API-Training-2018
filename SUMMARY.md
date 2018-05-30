@@ -10,7 +10,7 @@
 * [Chapter 2. Getting Started with the REST API](./FMESERVER_RESTAPI2GettingStarted/2.0.RESTAPIHomepage.md)
     * [2.1 REST API Response](./FMESERVER_RESTAPI2GettingStarted/2.1.RESTAPIResponse.md)
 * [Chapter 3. Using an HTTP Caller to Make Calls to the Server](./FMESERVER_RESTAPI3HTTPCaller/3.0.HTTPCaller.md)
-	* [3.1 Exercise- Creating a call with a REST Client Tool](./FMESERVER_RESTAPI3HTTPCaller/3.1ExerciseRESTClient.md)
+	* [3.1 Exercise- Creating a call with a REST Client Tool](./FMESERVER_RESTAPI3HTTPCaller/3.1.RESTClient.md)
 	* [3.2 Creating a Call Without Proper Authorization](./FMESERVER_RESTAPI3HTTPCaller/3.2.CallsWithoutAuthorization.md)
 	* [3.3 Creating a Call with a Token](./FMESERVER_RESTAPI3HTTPCaller/3.3.Token.md)
 * [Chapter 4. Interacting with Workspaces](./FMESERVER_RESTAPI4Workspaces/4.0.Introduction.md)
