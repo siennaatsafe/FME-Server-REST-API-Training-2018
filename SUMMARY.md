@@ -20,7 +20,7 @@
 	* [4.5 Using REST API Commands in a Workbench](./FMESERVER_RESTAPI4Workspaces/4.5.UsingRest.md)
 	* [4.6 Chaining Jobs Together using the REST API in FME Workbench](./FMESERVER_RESTAPI4Workspaces/4.6.Exercise.md)
 * [Chapter 5. Web Services and the REST API](./FMESERVER_RESTAPI5WebServices/5.0.WebServicesAndRESTAPI.md)
-	* [5.1 Direct URL Exercise](./FMESERVER_RESTAPI6Postman/5.1.Exercise.md)
+	* [5.1 Direct URL Exercise](./FMESERVER_RESTAPI5Postman/5.1.Exercise.md)
 * [Chapter 6. Server Admin Tasks](./FMESERVER_RESTAPI6ServerAdmin/6.0.Introduction.md)
 	* [6.1 Handling Repositories](./FMESERVER_RESTAPI6ServerAdmin/6.1.HandlingRepositories.md)
 	* [6.2 Working with Resources](./FMESERVER_RESTAPI6ServerAdmin/6.2.WorkingWithRepositories.md)
