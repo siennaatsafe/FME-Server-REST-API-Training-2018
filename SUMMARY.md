@@ -24,6 +24,7 @@
 * [Chapter 6. Server Admin Tasks](./FMESERVER_RESTAPI6ServerAdmin/6.0.Introduction.md)
 	* [6.1 Handling Repositories](./FMESERVER_RESTAPI6ServerAdmin/6.1.HandlingRepositories.md)
 	* [6.2 Working with Resources](./FMESERVER_RESTAPI6ServerAdmin/6.2.WorkingWithResources.md)
+	* [6.3 Working with Shared Resources](./FMESERVER_RESTAPI6ServerAdmin/6.3.WorkingWithResourcesUsingSharedResources.md)
 * [Chapter 7. Job Routing](./FMESERVER_RESTAPI7JobRouting/7.0.Introduction.md)
 	* [7.1 Creating a Routing Tag](./FMESERVER_RESTAPI7JobRouting/7.1.JobRoutingTag.md)
 	* [7.2 Retrieve Job History](./FMESERVER_RESTAPI7JobRouting/7.2.RetrieveJobHistory.md)
