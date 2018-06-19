@@ -24,8 +24,6 @@ The course is made up of two sections:
 
  - Web Services and the REST API
 
- - Complex Queries in Postman
-
  - Server Administration Tasks
 
  - Job Routing
