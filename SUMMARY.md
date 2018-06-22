@@ -30,6 +30,8 @@
 	* [Exercise: Creating a Workspace to Retrieve Job History](./FMESERVER_RESTAPI7JobManagement/7.3.Exercise.md)
 * [Chapter 8. Session 2 Developing with the FME Server REST API](./FMESERVER_RESTAPI8Session2/8.0.Introduction.md)
 	* [8.1 Best Practices](./FMESERVER_RESTAPI8Session2/8.1.BestPractices.md)
+	* [8.2 Hosting Web Applications](./FMESERVER_RESTAPI8Session2/8.2.HostingWebApplications.md)
+	* [8.3 Exercise- Setting up Your Web Application ](./FMESERVER_RESTAPI8Session2/8.3.Exercise.SettingUp.md)
 * [Chapter 9. Creating a Dynamically Populated Form ](./FMESERVER_RESTAPI9Form/9.0.Introduction.md)
 	* [Exercise ](./FMESERVER_RESTAPI9Form/9.1.ExerciseForm.md)
 * [Chapter 10. Data Distribution using Google Maps  ](./FMESERVER_RESTAPI10GoogleMaps/10.0.Introduction.md)
