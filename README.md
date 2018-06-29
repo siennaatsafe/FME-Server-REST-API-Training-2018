@@ -26,7 +26,7 @@ The course is made up of two sections:
 
  - Server Administration Tasks
 
- - Job Routing
+ - Job Management
 
 - *** Developing with the FME Server REST API ***
 
