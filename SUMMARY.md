@@ -25,7 +25,7 @@
 	* [6.1 Working with Resources](./FMESERVER_RESTAPI6ServerAdmin/6.1.WorkingWithResources.md)
 	* [6.2 Working with Shared Resources](./FMESERVER_RESTAPI6ServerAdmin/6.2.WorkingWithResourcesUsingSharedResources.md)
 * [Chapter 7. Job Management](./FMESERVER_RESTAPI7JobManagement/7.0.Introduction.md)
-	* [7.1 Creating a Routing Tag](./FMESERVER_RESTAPI7JobManagement/7.1.JobRoutingTag.md)
+	* [7.1 Creating a Job Queue](./FMESERVER_RESTAPI7JobManagement/7.1.JobRoutingTag.md)
 	* [7.2 Retrieve Job History](./FMESERVER_RESTAPI7JobManagement/7.2.RetrieveJobHistory.md)
 	* [Exercise: Creating a Workspace to Retrieve Job History](./FMESERVER_RESTAPI7JobManagement/7.3.Exercise.md)
 * [Chapter 8. Session 2 Developing with the FME Server REST API](./FMESERVER_RESTAPI8Session2/8.0.Introduction.md)
