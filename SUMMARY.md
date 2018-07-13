@@ -45,4 +45,5 @@
 	* [13.1 Product Information and Resources ](./FMESERVER_RESTAPI13WrapUp/13.01.ProductInfo.md)
 	* [13.2 Community Information and Resources ](./FMESERVER_RESTAPI13WrapUp/13.02.CommunityInfo.md)
 	* [13.3 Feedback and Certificates ](./FMESERVER_RESTAPI13WrapUp/13.03.CourseFeedback.md)
-	* [13.4 Thank You! ](./FMESERVER_RESTAPI13WrapUp/13.04.ThankYou.md)
+	* [13.4 Troubleshooting ](./FMESERVER_RESTAPI13WrapUp/13.04.Troubleshooting.md)
+	* [13.5 Thank You! ](./FMESERVER_RESTAPI13WrapUp/13.05.ThankYou.md)
